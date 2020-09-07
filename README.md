@@ -16,29 +16,29 @@
 8. Always mention the programming language.
 
 #### **Examples**
-  - Bad: [javascript] error message
-  - Good: Why does the console not show message from console.log statemenr (error message: Syntax error)?
+       - Bad: [javascript] error message
+      - Good: Why does the console not show message from console.log statemenr (error message: Syntax error)?
 
 ### Body 
 1. Introduce the problem.
 2. Mention any difficulties that have prevented you from solving this problem.
 3. Give only as much information as is necesarry.
 4. Include code. Your code examples should be…
-  - Minimal – Use as little code as possible that still produces the same problem.
-  - Complete – Provide all parts someone else needs to reproduce your problem in the question itself.
-  - Reproducible – Test the code you're about to provide to make sure it reproduces the problem.
+   - Minimal – Use as little code as possible that still produces the same problem.
+   - Complete – Provide all parts someone else needs to reproduce your problem in the question itself.
+   - Reproducible – Test the code you're about to provide to make sure it reproduces the problem.
 5. Add comments to your code example to explain your thinking process. 
 
 ### Tags
 1. Include tags for:
-  - programming language
-  - library
-  - specific API
+   - programming language
+   - library
+   - specific API
 2. Format righly:
-  - all lower case
-  - replace spaces with hyphens
-  - avoid punctuation 
-  - use both full words and abbreviations
+   - all lower case
+   - replace spaces with hyphens
+   - avoid punctuation 
+   - use both full words and abbreviations
 
 ## After formulating the question
 ### Proof-reading
