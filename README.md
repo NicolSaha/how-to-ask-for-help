@@ -17,7 +17,7 @@
 
 #### **Examples**
        - Bad: [javascript] error message
-      - Good: Why does the console not show message from console.log statemenr (error message: Syntax error)?
+       - Good: Why does the console not show message from console.log statemenr (error message: Syntax error)?
 
 ### Body 
 1. Introduce the problem.
