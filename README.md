@@ -15,7 +15,7 @@
 7. Always use English.
 8. Always mention the programming language.
 
-#### **Examples**
+#### ***Examples***
        - Bad: [javascript] error message
        - Good: Why does the console not show message from console.log statemenr (error message: Syntax error)?
 
